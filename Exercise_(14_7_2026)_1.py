@@ -18,8 +18,8 @@ class Student :
         print("-"*25)
     pass
 
-student2 = Student("Karanveer ",20, "Machine Learning")
-student1 = Student("Amrit Pal",21, "Electrical Engenerring")
+student1 = Student("Karanveer ",20, "Machine Learning")
+student2 = Student("Amrit Pal",21, "Electrical Engenerring")
 
 student1.display()
 student2.display() 
