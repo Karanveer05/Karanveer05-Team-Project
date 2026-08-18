@@ -18,10 +18,7 @@ class Student :
         print("-"*25)
     pass
 student1 = Student("Karanveer Singh", 21, "Computer Science")
-student2 = Student("Amrit Pal", 22, "Data Science")
-
-
-    
+student2 = Student("Amrit Pal", 22, "Data Science")    
 student1.display()
 student2.display() 
    
