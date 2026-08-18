@@ -17,8 +17,8 @@ class Student :
         print(f"Student Details \nName : {self.Name}\nAGE : {self.Age}\nCourse is {self.Course}")    
         print("-"*25)
     pass
-student1 = Student("Karanveer Singh", 21, "Computer Science")
-student2 = Student("Amrit Pal", 22, "Data Science")    
+student2 = Student("Karanveer Singh", 21, "Computer Science")
+student1 = Student("Amrit Pal", 22, "Data Science")    
 student1.display()
 student2.display() 
    
