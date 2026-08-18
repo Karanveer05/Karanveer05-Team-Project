@@ -20,7 +20,11 @@ class Student :
 
 student1 = Student("Karanveer ",20, "Machine Learning")
 student2 = Student("Amrit Pal",21, "Electrical Engenerring")
+
 num=3434
+
+num=20
+
 student1.display()
 student2.display() 
    
